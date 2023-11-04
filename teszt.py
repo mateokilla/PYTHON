@@ -1,0 +1,2 @@
+s='KecskeRakoArabok'
+print(s)
