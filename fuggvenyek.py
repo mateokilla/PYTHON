@@ -1,4 +1,5 @@
 #Igy kell függvényt definiálni a python-ban#
+#van parameter es visszateresi ertek is#
 def osszeAd(a,b):
     osszeg = a+b
     return osszeg
