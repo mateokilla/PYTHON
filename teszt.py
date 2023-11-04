@@ -9,3 +9,4 @@ print(type(osszeg))
 osztott=legnagyobb/osszeg*10**5/1000000
 print(osztott)
 print(type(osztott))
+print(round(osztott))
