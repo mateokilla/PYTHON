@@ -1,3 +1,11 @@
 print ("Hello World")
 print ( chr(0x2654))
 s= input("Nyomjon entert!")
+osszeg=sum([1,5454,42,978947])
+print(osszeg)
+legnagyobb=max([1,4,45])
+print(legnagyobb)
+print(type(osszeg))
+osztott=legnagyobb/osszeg*10**5/1000000
+print(osztott)
+print(type(osztott))
